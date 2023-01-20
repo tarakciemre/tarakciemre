@@ -1,4 +1,5 @@
-### Hi there 👋
+### Hi there!
+You can see some of the projects I have worked on in my repositories. I am currently working on machine learning and I am interested in blockchain technologies. Feel free to hit me up!
 
 <!--
 **tarakciemre/tarakciemre** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
