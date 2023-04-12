@@ -1,8 +1,8 @@
 You can see some of the projects I have worked on in my repositories. 
-# Working on:
+# Currently working on:
 - 📈 **Data Science**
 - 🌐 **Web Development**
-- ⛅**Cloud Technologies**
+- ⛅ **Cloud Technologies**
 - 🎮 **Game Development** (with Unity)
 
 <!--
