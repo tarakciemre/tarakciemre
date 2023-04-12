@@ -7,7 +7,7 @@ You can see some of the projects I have worked on in my repositories.
 
 # Reach out to me:
 - [LinkedIn](https://www.linkedin.com/in/emretarakci/) ![Image](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)
-
+<img src="{https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white}" />
 <!--
 **tarakciemre/tarakciemre** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
