@@ -5,7 +5,7 @@ You can see some of the projects I have worked on in my repositories.
 - ⛅ **Cloud Technologies**
 - 🎮 **Game Development** (with Unity)
 
-## Reach out:
+## Feel free to reach out:
 <a href="https://www.linkedin.com/in/emretarakci/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 <!--
 **tarakciemre/tarakciemre** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
