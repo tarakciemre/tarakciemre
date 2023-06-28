@@ -2,7 +2,7 @@ You can see some of the projects I have worked on in my repositories.
 # Currently working on:
 - 💾 **Backend Engineering**
 - 📈 **Data Science**
-- 🌐 **Web Development**
+- 🕸️ **Web Development**
 - ⛅ **Cloud Engineering with AWS**
 - 🎮 **Game Development** (with Unity)
 
